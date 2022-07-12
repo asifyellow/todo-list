@@ -1,0 +1,8 @@
+github is similar to gitlab community edition.
+
+#we can link our local repository to remote repository using following command.
+$ git remote add origin https://github.com/asifyellow/todo-list.git
+
+# to verify remote repository is linked\
+
+$ git remote -v
